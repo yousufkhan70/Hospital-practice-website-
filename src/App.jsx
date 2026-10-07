@@ -555,6 +555,10 @@ const App = () => {
   </div>
 </div>
 </section>
+<footer>
+  <h1 className="text-3xl text-center">Created By Yousuf Mosazai </h1>
+  <h2 className="text-2xl text-center">@copyright</h2>
+</footer>
 
 
 
